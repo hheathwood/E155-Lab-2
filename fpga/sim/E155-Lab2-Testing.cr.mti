@@ -1,0 +1,7 @@
+{C:/Users/hheathwood/Desktop/Henry MicroPs/E155-Lab-2/fpga/sim/osc_test.sv} {1 {vlog -work work -sv -stats=none {C:\Users\hheathwood\Desktop\Henry MicroPs\E155-Lab-2\fpga\sim\osc_test.sv}
+Model Technology ModelSim - Lattice FPGA Edition vlog 2021.4 Compiler 2021.10 Oct 14 2021
+
+} {} {}} {C:/Users/hheathwood/Desktop/Henry MicroPs/E155-Lab-2/fpga/sim/seven_seg_test.sv} {1 {vlog -work work -sv -stats=none {C:\Users\hheathwood\Desktop\Henry MicroPs\E155-Lab-2\fpga\sim\seven_seg_test.sv}
+Model Technology ModelSim - Lattice FPGA Edition vlog 2021.4 Compiler 2021.10 Oct 14 2021
+
+} {} {}}

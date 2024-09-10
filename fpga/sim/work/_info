@@ -1,0 +1,36 @@
+m255
+K4
+z2
+!s11f vlog 2021.4 2021.10, Oct 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/lscc/radiant/3.2/modeltech/win32loem
+vsum_logic
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1725924968
+!i10b 1
+!s100 SUd>0@Q?Ca9Xlc9H5<nJ<0
+Ik[1iP0V7K=AlFMkFz]=4^1
+S1
+dC:/Users/hheathwood/Desktop/Henry MicroPs/E155-Lab-2/fpga/sim
+w1725924594
+8C:\Users\hheathwood\Desktop\Henry MicroPs\E155-Lab-2\fpga\sim\sum_test.sv
+FC:\Users\hheathwood\Desktop\Henry MicroPs\E155-Lab-2\fpga\sim\sum_test.sv
+!i122 2
+L0 7 7
+VDg1SIo80bB@j0V0VzS_@n1
+OT;L;2021.4;73
+r1
+!s85 0
+31
+!s108 1725924968.000000
+!s107 C:\Users\hheathwood\Desktop\Henry MicroPs\E155-Lab-2\fpga\sim\sum_test.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\hheathwood\Desktop\Henry MicroPs\E155-Lab-2\fpga\sim\sum_test.sv|
+!s101 -O0
+!i113 1
+o-work work -sv -O0
+tCvgOpt 0
